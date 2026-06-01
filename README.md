@@ -55,3 +55,7 @@ Independent governance architecture initiative focused on authority boundary con
 Athena Public Overview (2-page PDF)
 
 [Download the Athena Public Overview PDF](./Athena_Public_Overview_v1.pdf)
+
+## License
+
+This work is licensed under CC BY-NC-ND 4.0.
