@@ -98,13 +98,13 @@ Athena focuses instead on the legitimacy of autonomous authority and the conditi
 
 The position paper introduces Athena as a governance layer architecture for autonomous AI systems and explains the emerging governance gap created by Authority Drift.
 
-**Document:** `Athena_Position_Paper_Draft_v0.1.pdf`
+**Document:** [Athena_Position_Paper_Draft_v0.1.pdf](./Athena_Position_Paper_Draft_v0.1.pdf)
 
 ### Athena Core Philosophy Draft v0.1
 
 The core philosophy document explains the foundational reasoning behind Athena, including the limits of autonomous authority, the nature of human judgment, and the role of Structured Human Deliberation.
 
-**Document:** `Athena_Core_Philosophy_Draft_v0.1.pdf`
+**Document:** [Athena_Core_Philosophy_Draft_v0.1.pdf](./Athena_Core_Philosophy_Draft_v0.1.pdf)
 
 ---
 
