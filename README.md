@@ -512,7 +512,7 @@ Not every implementation specification has the same maturity or approval status.
 
 ## Current External Architecture Reference
 
-**Athena Governance Architecture Position Paper v0.3**
+**[Athena Governance Architecture Position Paper v0.3](./Athena_Governance_Architecture_Position_Paper_v0.3.pdf)**
 
 Current external representative paper for Athena's integrated architecture and claims boundary.
 
